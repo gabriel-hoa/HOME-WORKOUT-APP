@@ -1,7 +1,8 @@
 # HOME-WORKOUT-APP
 Play Store | App Store Home workout app built with Typescript and React Native. 
 Home exercises to give to the persons the chance to stay health and in a better physical/psychological conditions.
-
+After 2020 all the world change and media/internet facilities grow up faster. 
+Home exercise with professional specialists teaching common persons stay health in there houses, with a few minutes exercises classes has been remarkable.
 
 https://github.com/gabriel-hoa/HOME-WORKOUT-APP/assets/121295620/3367c9b0-658c-4645-85de-46c8dde47777
 
